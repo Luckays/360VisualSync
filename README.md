@@ -16,7 +16,7 @@ Provides a user-friendly GUI for selecting input files, setting parameters, and 
 
 ## Running the Application
 
-Open the application (desktop_main.py).
+Open the application (login.py).
 
 Select an MP4 video file.
 
