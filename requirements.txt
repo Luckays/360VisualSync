@@ -1,0 +1,6 @@
+customtkinter
+tkcalendar
+Pillow
+pandas
+xmltodict
+concurrent.futures
